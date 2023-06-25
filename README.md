@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning : **Ruby on Rails**, **Ruby**, **React**, **JS**
 
-- 📫 How to reach me : **sojabio@protonmail.com**
+- 📫 How to reach me : **solene.jabaud@gmail.com**
 
 - ⚡ Fun fact : **love them**
 
