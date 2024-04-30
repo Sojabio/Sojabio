@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solène</h1>
-<h3 align="center">freshly graduated from the fullstack development bootcamp at The Hacking Project</h3>
-<h3 align="center">currently looking for an apprenticeship with the help of Wild Code School</h3>
+<h3 align="center">Alternance Traace / Wild Code School</h3>
 
 
 - 🔭 I’m currently working on : learning and exploring the world of coding
