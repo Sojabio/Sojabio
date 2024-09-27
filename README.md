@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on : learning and exploring the world of coding
 
-- 🌱 I’m currently learning : **Ruby on Rails**, **React**, **JS**
+- 🌱 I’m currently learning : **Ruby on Rails**, **React**, **JS**, **TS**
 
 - 📫 How to reach me : **solene.jabaud@gmail.com**
 
