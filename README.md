@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning : **Ruby on Rails**, **React**, **JS**, **TS**
 
-- 📫 How to reach me : **solene.jabaud@gmail.com**
+- 📫 How to reach me : visit solenejabaud.com
 
 - ⚡ Fun fact : **love them**
 
